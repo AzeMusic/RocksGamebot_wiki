@@ -3,4 +3,4 @@
    **Telegramda istenilen söhbətdə multiplayer oyunlar oynuya biləcəyiniz bot Rocks Game bot!**
 --------
 ### Telegram 
-![Rocks Game Bot 🇦🇿](https://t.me/RocksGameAzBot)
+[Rocks Game Bot 🇦🇿](https://t.me/RocksGameAzBot)
