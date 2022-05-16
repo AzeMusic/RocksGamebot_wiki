@@ -1,4 +1,4 @@
-### _```RocksGamebot_wiki```__
+### **_```RocksGamebot_wiki```_**
 
 ## **repo_**
  [Rocks Game Bot 🇦🇿](https://github.com/AzeMusic/RocksGamebot)
