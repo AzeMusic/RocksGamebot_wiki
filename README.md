@@ -10,7 +10,7 @@
 
 
 -----------
-![_Rocks Game Bot_🇦🇿](https://telegra.ph/file/5c242999b4efa27c107d5.jpg)
+![**_Rocks Game Bot_🇦🇿](https://telegra.ph/file/5c242999b4efa27c107d5.jpg)
 
 
 
