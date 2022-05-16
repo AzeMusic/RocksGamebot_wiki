@@ -1,1 +1,1 @@
-Welcome to the RocksGamebot wiki!
+## Welcome to the RocksGamebot wiki!
